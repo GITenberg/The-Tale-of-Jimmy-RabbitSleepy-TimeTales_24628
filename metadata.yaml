@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1842
     wikipedia: http://en.wikipedia.org/wiki/Arthur_Scott_Bailey
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24628#The-Tale-of-Jimmy-RabbitSleepy-TimeTales
 gutenberg_bookshelf: Children's Book Series
 gutenberg_issued: '2008-02-16'
 gutenberg_type: Text
